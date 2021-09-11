@@ -14,9 +14,9 @@ ___
 
 ![My card name](https://cardivo.vercel.app/api?name=Ririt%20-FRHN&description=Hi,%20im%20FarhanJs%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/85088379?v=4&backgroundColor=%23ecf0f1&instagram=Riripii&linkedin=Riripii&github=FHTEAMID&twitter=Ririt&pattern=leaf&colorPattern=%23eaeaea)
 
-![Riripii github stats](https://github-readme-stats.vercel.app/api?username=Riripii&show_icons=true)
+![Riripii github stats](https://github-readme-stats.vercel.app/api?username=Ririt-DB&show_icons=true)
 
-![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=Riripii&layout=compact)
+![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=Ririt-DB&layout=compact)
 
 <p align="center">
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
